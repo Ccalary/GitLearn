@@ -16,8 +16,6 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // 创建分支dev
-    NSLog(@"我是分支哦！！！");
     return YES;
 }
 
@@ -49,7 +47,6 @@
 }
 
 - (void)addMethod {
-    
 }
 
 @end
