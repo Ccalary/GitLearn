@@ -27,7 +27,9 @@
 
 // 主应用方法
 - (void)masterFun {
+
     NSLog(@"我是dev");
+
 }
 
 @end
