@@ -29,4 +29,8 @@
 - (void)masterFun {
     NSLog(@"主分支");
 }
+
+- (void)addFun {
+    
+}
 @end
