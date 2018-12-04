@@ -25,12 +25,6 @@
     // Dispose of any resources that can be recreated.
 }
 
-// 主应用方法
-- (void)masterFun {
-
-    NSLog(@"我是dev");
-
-}
 
 - (void)addFun {
     
