@@ -27,6 +27,6 @@
 
 // 主应用方法
 - (void)masterFun {
-    
+    NSLog(@"主分支");
 }
 @end
