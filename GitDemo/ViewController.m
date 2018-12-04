@@ -32,4 +32,8 @@
 
 }
 
+- (void)addFun {
+    
+}
+
 @end
